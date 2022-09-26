@@ -67,7 +67,6 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             summ = summ + arr[i];
             System.out.print(summ + " ");
-
         }
         System.out.println();
         System.out.println("Сумма трат за месяц составила " + summ + " рублей");
